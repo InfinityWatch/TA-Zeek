@@ -1,6 +1,6 @@
 # TA-Zeek
 
-Inspired by the Splunk built TA (Splunk Add-on for Zeek aka Bro). The "Bro" terminology and naming has been wiped out and updated to reflect Zeek thoughout the add-on.
+Inspired by the Splunk built TA (Splunk Add-on for Zeek aka Bro). The "Bro" terminology and naming has been wiped out and updated to reflect Zeek thoughout the add-on with additional parsing.
 
 Place this add-on onto your indexers and search head. 
 
